@@ -4,13 +4,13 @@ A terminal-based encryption tool written in C, implementing the Vigenère cipher
 
 ---
 
-## 📖 Overview
+##  Overview
 
 This project implements a complete Vigenère cipher system built entirely with only `<stdio.h>` and `<stdlib.h>` — no external libraries. The core components include encryption and decryption using a 26×26 Vigenère table, digital signature (checksum) for message integrity, a smart key generator, special character detection, a visual progress bar, and file-based storage.
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 .
